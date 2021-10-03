@@ -1,1 +1,6 @@
-# README
+# README 
+
+# About Us
+
+Describes our company
+
